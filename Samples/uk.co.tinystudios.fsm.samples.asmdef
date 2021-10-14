@@ -1,0 +1,16 @@
+{
+    "name": "uk.co.tinystudios.fsm.samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c4b9b4d4cfc7b2540967cb07c2654e3a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
